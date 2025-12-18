@@ -1,0 +1,16 @@
+<svg width="560" height="720" viewBox="0 0 560 720" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#191a1f"/>
+      <stop offset="100%" stop-color="#121317"/>
+    </linearGradient>
+  </defs>
+  <rect x="80" y="60" width="400" height="600" rx="28" fill="url(#g3)" stroke="#2a2b31" stroke-width="3"/>
+  <rect x="80" y="60" width="400" height="90" rx="24" fill="#0f1013" stroke="#2a2b31" stroke-width="3"/>
+  <rect x="120" y="220" width="320" height="220" rx="20" fill="#7ad1c7"/>
+  <text x="280" y="300" font-family="Segoe UI, Arial" font-size="36" font-weight="700" text-anchor="middle" fill="#0b1b18">松谷</text>
+  <text x="280" y="346" font-family="Segoe UI, Arial" font-size="18" text-anchor="middle" fill="#0b1b18">中輕焙｜堅果・可可</text>
+  <circle cx="220" cy="400" r="9" fill="#d1a46b"/>
+  <circle cx="260" cy="400" r="9" fill="#8b5e3c"/>
+  <ellipse cx="280" cy="680" rx="160" ry="18" fill="#0b0c0f"/>
+</svg>

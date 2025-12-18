@@ -1,0 +1,26 @@
+<svg width="560" height="720" viewBox="0 0 560 720" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1b1d22"/>
+      <stop offset="100%" stop-color="#121317"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7ad1c7"/>
+      <stop offset="100%" stop-color="#2fb5a1"/>
+    </linearGradient>
+  </defs>
+  <!-- bag body -->
+  <rect x="80" y="60" width="400" height="600" rx="28" fill="url(#g1)" stroke="#2a2b31" stroke-width="3"/>
+  <!-- fold -->
+  <rect x="80" y="60" width="400" height="90" rx="24" fill="#0f1013" stroke="#2a2b31" stroke-width="3"/>
+  <!-- label -->
+  <rect x="120" y="220" width="320" height="220" rx="20" fill="url(#accent)"/>
+  <text x="280" y="300" font-family="Segoe UI, Arial" font-size="36" font-weight="700" text-anchor="middle" fill="#0b1b18">晴林</text>
+  <text x="280" y="346" font-family="Segoe UI, Arial" font-size="18" text-anchor="middle" fill="#0b1b18">輕焙｜果香・花香・柑橘</text>
+  <!-- chips -->
+  <circle cx="170" cy="400" r="9" fill="#ff6b6b"/>
+  <circle cx="210" cy="400" r="9" fill="#c084fc"/>
+  <circle cx="250" cy="400" r="9" fill="#ffd166"/>
+  <!-- shadow -->
+  <ellipse cx="280" cy="680" rx="160" ry="18" fill="#0b0c0f"/>
+</svg>

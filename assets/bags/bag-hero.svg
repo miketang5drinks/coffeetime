@@ -1,0 +1,18 @@
+<svg width="800" height="540" viewBox="0 0 800 540" xmlns="http://www.w3.org/2000/svg">
+  <rect x="60" y="40" width="240" height="420" rx="28" fill="#121317" stroke="#2a2b31" stroke-width="3"/>
+  <rect x="60" y="40" width="240" height="70" rx="24" fill="#0f1013" stroke="#2a2b31" stroke-width="3"/>
+  <rect x="95" y="170" width="170" height="150" rx="16" fill="#7ad1c7"/>
+  <text x="180" y="240" font-family="Segoe UI, Arial" font-size="22" font-weight="700" text-anchor="middle" fill="#0b1b18">晴林</text>
+
+  <rect x="300" y="40" width="240" height="420" rx="28" fill="#121317" stroke="#2a2b31" stroke-width="3"/>
+  <rect x="300" y="40" width="240" height="70" rx="24" fill="#101114" stroke="#2a2b31" stroke-width="3"/>
+  <rect x="335" y="170" width="170" height="150" rx="16" fill="#ffb454"/>
+  <text x="420" y="240" font-family="Segoe UI, Arial" font-size="22" font-weight="700" text-anchor="middle" fill="#0b0c0f">晨嵐</text>
+
+  <rect x="540" y="40" width="240" height="420" rx="28" fill="#121317" stroke="#2a2b31" stroke-width="3"/>
+  <rect x="540" y="40" width="240" height="70" rx="24" fill="#0f1013" stroke="#2a2b31" stroke-width="3"/>
+  <rect x="575" y="170" width="170" height="150" rx="16" fill="#ffd166"/>
+  <text x="660" y="240" font-family="Segoe UI, Arial" font-size="22" font-weight="700" text-anchor="middle" fill="#0b0c0f">晨光</text>
+
+  <ellipse cx="400" cy="500" rx="280" ry="20" fill="#0b0c0f"/>
+</svg>
